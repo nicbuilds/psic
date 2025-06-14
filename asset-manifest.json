@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Psichy/static/css/main.e6c13ad2.css",
+    "main.js": "/Psichy/static/js/main.b867e38c.js",
+    "static/js/453.dce5253b.chunk.js": "/Psichy/static/js/453.dce5253b.chunk.js",
+    "index.html": "/Psichy/index.html",
+    "main.e6c13ad2.css.map": "/Psichy/static/css/main.e6c13ad2.css.map",
+    "main.b867e38c.js.map": "/Psichy/static/js/main.b867e38c.js.map",
+    "453.dce5253b.chunk.js.map": "/Psichy/static/js/453.dce5253b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b867e38c.js"
+  ]
+}
