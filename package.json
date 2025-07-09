@@ -2,7 +2,7 @@
   "name": "app-terapia",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://atcpunisher.github.io/Psichy",
+  "homepage": "http://nicbuilds.github.io/psic",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
